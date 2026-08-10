@@ -110,6 +110,7 @@ blinkit-sales-operations-powerbi/
 │   └── customer-insights.png
 │
 └── README.md
+
 ## Business Value
 
 This dashboard demonstrates how raw sales and operational data can be transformed into actionable business insights using Power BI.
